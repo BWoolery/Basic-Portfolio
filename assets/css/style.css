@@ -60,13 +60,15 @@ li{
   }
 
 #picture{
-    float:left;
+    float: left;
+    width: 250px;
     
 
 }
 
 #bio{
-    float:left;
+    float: left;
+    width: 450px;
 
   }
 
